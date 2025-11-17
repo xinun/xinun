@@ -8,9 +8,7 @@
 
 ## 🚀 GitHub Stats
 
-<div align="center">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinun&show_icons=true&theme=dark&rank_icon=title&line_height=25)](https://github.com/xinun/github-readme-stats)
-</div>
 
 <br>
 
