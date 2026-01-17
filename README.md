@@ -1,4 +1,3 @@
-# 안녕하세요! 👋 GitHub 프로필에 오신 것을 환영합니다.
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=%20Dev%20Ops&fontSize=40)
 
