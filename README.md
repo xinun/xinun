@@ -5,7 +5,6 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=40&desc=xinun's%20GitHub&descAlignY=70&descAlign=50&color=87CEFA&textColor=ffffff&descColor=1E3A8A)
 
 
 
