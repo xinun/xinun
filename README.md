@@ -17,6 +17,6 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcho25&langs_count=5&layout=compact)](https://github.com/swcho25)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinun&langs_count=5&layout=compact)](https://github.com/xinun)
   
 </div>
