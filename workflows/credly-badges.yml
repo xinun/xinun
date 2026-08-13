@@ -1,0 +1,22 @@
+name: Update Credly Badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Credly Badges
+        uses: jd-35656/readme-credly-badges@v1
+        with:
+          credly_username: "jihun-jun"
+          badge_size: "150x150"
+          badge_sort_by: "issued"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
