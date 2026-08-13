@@ -16,7 +16,7 @@ jobs:
       - name: Update Credly Badges
         uses: jd-35656/readme-credly-badges@v1
         with:
-          credly_username: "jihun-jun"
+          credly_username: "xinun"
           badge_size: "150x150"
           badge_sort_by: "issued"
           github_token: ${{ secrets.GITHUB_TOKEN }}
