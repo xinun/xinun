@@ -2,21 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=%20Dev%20Ops&fontSize=40)
 
 ---
-<div align=center>
-<br>
-  
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Kubernetes&animation=fadeIn&fontColor=0067a3)
 
+## Certifications
 
-
-<br>
-<hr>
-<br>
-
-<br>
-<br>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinun&langs_count=5&layout=compact)](https://github.com/xinun)
-  
-</div>
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
